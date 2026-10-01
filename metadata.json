@@ -1,0 +1,6 @@
+{
+  "name": "Café Terroir - Artisanal Coffee & Roastery",
+  "description": "A luxury artisanal café and specialty roastery serving single-origin coffees, handcrafted brews, slow-fermented French bakery, gourmet brunch, and table reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
